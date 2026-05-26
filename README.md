@@ -21,7 +21,7 @@
 ---
 
 ## Hi, I'm Chinedum 👋
-A software engineer from Lagos. I'm Interested in solving problems programmatically with codes and scalable web apps. I'm open for Intern role or work.
+A software engineer from Lagos. I'm Interested in solving problems programmatically with codes and scalable systems. I'm open for Intern role or work.
 
 ## 👨💻 About Me
 - 🌱 Learning **Rust**
