@@ -20,7 +20,7 @@
 A software engineer from Lagos. I'm Interested in solving problems programmatically with codes and scalable web apps. I'm open for work.
 
 ## 👨💻 About Me
-- 🌱 Learning **Rust**
+- 🌱 Learning, working, and focusing on **Rust**
 - 👯 Looking to collaborate on **Software engineering projects**
 - 📫 How to reach me: **[chinedujohn17@gmail.com](mailto:chinedujohn17@gmail.com)**
 - 😄 Pronouns: He
